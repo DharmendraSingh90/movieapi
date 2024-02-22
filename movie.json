@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Movie 1",
+        "trailerUrl": "https://www.youtube.com/embed/j3WhzM8g514",
+        "releaseDate": 2023,
+        "genre": "kung fu",
+        "description": "I love this movie",
+        "id": 1
+    },
+    {
+        "title": "Movie 2",
+        "trailerUrl": "https://www.youtube.com/embed/lXy-BKrmL-Y",
+        "releaseDate": 2015,
+        "genre": "romantic scen",
+        "description": "I hate this movie",
+        "id": 2
+    }
+]
